@@ -1,0 +1,49 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Kim Bellware, Silvia Foster-Frau",
+      "title": "South Carolina Supreme Court says 6-week abortion law unconstitutional - The Washington Post",
+      "description": "Abortions in South Carolina are now legal to at least 20 weeks after the state supreme court tossed the six-week ban Thursday.",
+      "url": "https://www.washingtonpost.com/nation/2023/01/05/south-carolina-abortion/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y6NHRGJYWG4MBSXPE332K2D2RQ.jpg&w=1440",
+      "publishedAt": "2023-01-06T02:30:10Z",
+      "content": "Comment on this story\r\nThe South Carolina Supreme Court struck down the states six-week abortion ban on Thursday, ruling that the law that restricted abortions after detectable fetal cardiac activity… [+2376 chars]"
+    },
+    {
+      "source": { "id": "nfl-news", "name": "NFL News" },
+      "author": "NFL",
+      "title": "Week 17 Buffalo-Cincinnati game will not be resumed; neutral AFC Championship Game site being considered - NFL.com",
+      "description": "The NFL announced today that the Week 17 Buffalo Bills at Cincinnati Bengals game will not be resumed and has been cancelled.",
+      "url": "https://www.nfl.com/news/week-17-buffalo-cincinnati-game-will-not-be-resumed-neutral-afc-championship-gam",
+      "urlToImage": "https://static.www.nfl.com/image/private/t_editorial_landscape_12_desktop/league/lr6yjvn1enhuangihjb9",
+      "publishedAt": "2023-01-06T02:18:00Z",
+      "content": "The NFL announced today that the Week 17 Buffalo Bills at Cincinnati Bengals game will not be resumed and has been cancelled.\r\nNFL Commissioner Roger Goodell informed all clubs of his decision earlie… [+3356 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Kevin Liptak",
+      "title": "US to send Bradley vehicles to Ukraine as part of new aid package - CNN",
+      "description": "The United States will supply Ukraine with Bradley fighting vehicles as part of a new security assistance package to the country as it nears the one-year anniversary of Russia's invasion.",
+      "url": "https://www.cnn.com/2023/01/05/politics/us-germany-ukraine-aid/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230105114222-bradley-fighting-vehicle-file-042022.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-01-06T01:51:00Z",
+      "content": "The United States will supply Ukraine with Bradley fighting vehicles as part of a new security assistance package to the country as it nears the one-year anniversary of Russias invasion.\r\nThe nearly … [+2655 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNET" },
+      "author": "Karisa Langlo, Daniel Van Boom",
+      "title": "CES 2023 Highlights: A Flying Car, Enormous TVs and a Laptop-Charging Bike - CNET",
+      "description": "Plus, Sony is getting into the car business, Samsung is making insane shape-shifting screens, and Asus reveals glasses-free 3D laptop displays.",
+      "url": "https://www.cnet.com/tech/ces-2023-highlights-a-flying-car-enormous-tvs-and-a-laptop-charging-bike/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/58b0b93406d748b5b0de90fd43e84d42f4c50720/hub/2023/01/05/a27a9e48-7f62-4ae1-9ddd-8f5304012750/razer-handheld-gaming-2155.jpg?auto=webp&fit=crop&height=630&width=1200",
+      "publishedAt": "2023-01-06T01:51:00Z",
+      "content": "We're live on the CES 2023 show floor in Las Vegas, and there is a lot to see. There's tech that'll hit store shelves this year, gadgets that are a few years off, and crazy concepts that may never be… [+12473 chars]"
+    }
+   
+    
+  ]
+}
+
